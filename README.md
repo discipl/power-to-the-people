@@ -1,4 +1,4 @@
-# power-to-the-people
+# Power To The People
 The digital planet we have started to inhabit is changing rapidly. More and more users arrive daily, serving and cruising the oceans of our data communication networks. 
 
 But where to find peace and solace from the overwhelming amounts of data flows that penetrate our minds and leave many feeling blank. A new home on the internet would provide users with a safe passage to navigate, control and expand their own inner as well as outer usage of data communications. 
